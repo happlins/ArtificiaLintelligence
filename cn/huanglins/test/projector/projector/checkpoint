@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/WorkSapce/pythonworkspace/ArtificiaLintelligence/cn/huanglins/test/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "E:/WorkSapce/pythonworkspace/ArtificiaLintelligence/cn/huanglins/test/projector/projector/a_model.ckpt-1001"
